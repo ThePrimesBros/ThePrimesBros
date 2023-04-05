@@ -3,8 +3,6 @@
 
 <!-- GIF HEADER -->
 <div style="display: flex; justify-content: space-between; align-items:center; margin-top:25px; margin-bottom: 35px;">
-<img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/60424386?v=4" width="20%">
-
 
 <!-- TROFEOS GITHUB -->
 <div style="width:70%">
