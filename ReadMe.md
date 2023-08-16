@@ -22,6 +22,7 @@
 - 💻 Worker at adhara France in internship as fullstack developer
 - ✨ Passionate by web development, new technology and IA
 - 🏃‍♂️ Great runner, and passionate by the sport generaly
+- You can see more [here](https://raphael-bessonnier.vercel.app/)
 </div>
 <!-- CONTACTO -->
 <div style="margin: 25px 0">
