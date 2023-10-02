@@ -17,9 +17,9 @@
 <div style="margin: 25px 0">
 <h2 style="margin-bottom: 15px"><b>What about me ?</b></h2>
 
-- 🧭 I'm Raphaël Bessonnier and I've 22
-- 📖 Student in Web Enginering at ESGI Paris until september 2023
-- 💻 Worker at adhara France in internship as fullstack developer
+- 🧭 I'm Raphaël Bessonnier and I've 23
+- 📖 Graduate of a master degree Web Enginering at ESGI Paris in september 2023
+- 💻 Worker at KBRW as software engineer
 - ✨ Passionate by web development, new technology and IA
 - 🏃‍♂️ Great runner, and passionate by the sport generaly
 - You can see more [here](https://raphael-bessonnier.vercel.app/)
